@@ -44,4 +44,5 @@ The application has preliminary code to handle different types of NFC content fo
 
 - Gson: For handling JSON serialization and deserialization.
 
-
+## Contact
+- 1459540827@qq.com
